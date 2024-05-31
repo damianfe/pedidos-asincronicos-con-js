@@ -16,7 +16,7 @@
     "express": "^4.17.1",
     "method-override": "^3.0.0",
     "moment": "^2.29.1",
-    "mysql2": "^2.2.5",
+    "mysql2": "^3.9.8",
     "sequelize": "^6.5.0"
   },
   "devDependencies": {
